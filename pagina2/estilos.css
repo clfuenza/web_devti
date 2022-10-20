@@ -1,0 +1,48 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.encabezado{
+    background-image: url("img/portada.jpg");
+    background-repeat: no-repeat; 
+    color: whitesmoke;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+}
+.menu{
+    text-decoration: none; 
+    background-color:#B45F04;        
+    padding: 30px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.color{
+    color: white;
+}
+
+h2{
+    padding: 50px;
+}
+
+.fondo{
+    background-color:#045FB4;
+    color: black;
+    padding: 50px;
+
+}
+
+.fondo2{
+    background-color:#045FB4;
+    color: whitesmoke;
+    padding: 100px;
+    text-align: justify;
+
+}
+
+.pie{
+    background-color: #151515;
+    padding: 100px;
+    color: whitesmoke;
+}
