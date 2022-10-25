@@ -22,7 +22,7 @@ a:hover{
     font-size: 18px;
     color:whitesmoke;   
     text-align: justify;
-    padding: 100px; 
+    padding: 70px; 
 }
 
 .formato1{
@@ -114,4 +114,8 @@ h5,p{
 
 .formato_contacto{
     padding-top: 14px;
+}
+
+.fuente_form{
+    font-weight: bold;
 }
