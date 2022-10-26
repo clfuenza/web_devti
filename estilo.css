@@ -6,6 +6,7 @@
    
     color: black;
     background-color:white;
+    text-align: center;
     padding:10px;
     margin-bottom: auto;
     
@@ -75,7 +76,10 @@ h5,p{
     font-size: 18px;
     color: azure;
     margin-top: 40px;
-    padding: 50px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
 
 }
 
@@ -119,3 +123,10 @@ h5,p{
 .fuente_form{
     font-weight: bold;
 }
+
+/* modifica el tamaño de las imagenes de carrusel*/
+.carousel-inner img{
+   width: 100%;
+   max-height: 550px;
+}
+
