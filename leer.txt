@@ -1,3 +1,7 @@
 autor: Claudio Fuenzalida
 fecha: 2021 
-fecha última modificación:2022
+fecha última modificación:25-10-2022
+tipo de archivos: html, css, php, txt 
+Descripción: página simple de servicios de informática y con partner
+ de capacitación conducentes a certificaciones.
+ Se agrega formulario en php para envío de consultas y contacto.
